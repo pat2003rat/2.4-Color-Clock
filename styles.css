@@ -1,0 +1,17 @@
+body{
+  background-color: #03244D;
+  color: #bbb;
+  font-family: Helvetica;
+  text-align: center;
+}
+.elapsed-time{
+font-size: 90px;
+margin-top: 10%;
+}
+
+.timeFlies{
+height: none;
+background-color: #F26522;
+text-align: center;
+width: 100%;
+}
